@@ -238,7 +238,7 @@ section img{
 </main>
 
 	<footer id="footer">
-			<p>This site is created by:-</p>
+			<p>This page created by:-</p>
 		<form>
 			<input type="text" value="Suraj Bele">
 		</form>
